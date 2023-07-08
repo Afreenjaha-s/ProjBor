@@ -1,0 +1,87 @@
+.box1 {
+    color: white;
+    background: rgb(216, 50, 64);
+    border: 6px solid rgb(14, 173, 165);
+    text-align: center;
+    padding: 20px;
+    margin: 10px 60px;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.box2
+{
+    color: white;
+    background: rgb(114, 66, 66);
+    border: 6px dashed rgb(26, 190, 20);
+    text-align: center;
+    padding: 20px;
+    margin: 10px 60px;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.box3{
+    color: white;
+    background: rgb(59, 13, 77);
+    border: 6px dotted rgb(177, 160, 6);
+    text-align: center;
+    padding: 20px;
+    margin: 10px 60px;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.box4{
+    color: white;
+    background: rgb(14, 122, 104);
+    border: 6px double rgb(170, 25, 25);
+    text-align: center;
+    padding: 20px;
+    margin: 10px 60px;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.box5{
+    color: white;
+    background:green;
+    border: 6px groove rgb(167, 20, 20);
+    text-align: center;
+    padding: 20px;
+    margin: 10px 60px;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.box6{
+    color: white;
+    background: rgb(59, 13, 77);
+    border: 6px ridge rgb(177, 160, 6);
+    text-align: center;
+    padding: 20px;
+    margin: 10px 60px;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.box7{
+    color: white;
+    background: rgb(110, 17, 68);
+    border: 6px inset rgb(13, 139, 189);
+    text-align: center;
+    padding: 20px;
+    margin: 10px 60px;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.box8{
+    color: white;
+    background: rgb(7, 30, 94);
+    border: 6px outset rgb(238, 185, 12);
+    text-align: center;
+    padding: 20px;
+    margin: 10px 60px;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.box9{
+    color: white;
+    background: rgb(19, 5, 95);
+    
+
+}
